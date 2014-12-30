@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShroomTest</string>
+    <string name="beer_string">Beer</string>
+	<string name="coctails_string">Coctails</string>
+	<string name="shots_string">Shots</string>
+	<string name="food_string">Food</string>
+	
+</resources>
